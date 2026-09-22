@@ -10,6 +10,7 @@ A collection of LeetCode questions which i will solved.... and this is topic / p
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0027-remove-element) |
 | [0724-find-pivot-index](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0724-find-pivot-index) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0747-largest-number-at-least-twice-of-others) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,4 +33,8 @@ A collection of LeetCode questions which i will solved.... and this is topic / p
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0724-find-pivot-index) |
+## Sorting
+|  |
+| ------- |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0747-largest-number-at-least-twice-of-others) |
 <!---LeetCode Topics End-->
