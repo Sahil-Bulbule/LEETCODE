@@ -11,11 +11,13 @@ A collection of LeetCode questions which i will solved.... and this is topic / p
 | [0027-remove-element](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0027-remove-element) |
 | [0724-find-pivot-index](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Two Pointers
 |  |
 | ------- |
@@ -29,12 +31,18 @@ A collection of LeetCode questions which i will solved.... and this is topic / p
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0724-find-pivot-index) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Sorting
 |  |
 | ------- |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0747-largest-number-at-least-twice-of-others) |
+## Binary Search
+|  |
+| ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 <!---LeetCode Topics End-->
