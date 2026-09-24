@@ -9,6 +9,7 @@ A collection of LeetCode questions which i will solved.... and this is topic / p
 | [0001-two-sum](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0027-remove-element) |
+| [0066-plus-one](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0066-plus-one) |
 | [0724-find-pivot-index](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions which i will solved.... and this is topic / p
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0066-plus-one) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Database
 |  |
