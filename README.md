@@ -50,4 +50,8 @@ A collection of LeetCode questions which i will solved.... and this is topic / p
 |  |
 | ------- |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
