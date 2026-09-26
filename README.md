@@ -7,6 +7,7 @@ A collection of LeetCode questions which i will solved.... and this is topic / p
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0066-plus-one) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions which i will solved.... and this is topic / p
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0088-merge-sorted-array) |
@@ -130,4 +132,8 @@ A collection of LeetCode questions which i will solved.... and this is topic / p
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0169-majority-element) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
