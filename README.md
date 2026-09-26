@@ -31,6 +31,7 @@ A collection of LeetCode questions which i will solved.... and this is topic / p
 | ------- |
 | [0001-two-sum](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0217-contains-duplicate) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions which i will solved.... and this is topic / p
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0013-roman-to-integer) |
 | [1096-brace-expansion-ii](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/1096-brace-expansion-ii) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions which i will solved.... and this is topic / p
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0268-missing-number) |
