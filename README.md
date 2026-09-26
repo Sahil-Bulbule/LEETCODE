@@ -21,6 +21,7 @@ A collection of LeetCode questions which i will solved.... and this is topic / p
 | [0724-find-pivot-index](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions which i will solved.... and this is topic / p
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1096-brace-expansion-ii](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/1096-brace-expansion-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -46,6 +48,7 @@ A collection of LeetCode questions which i will solved.... and this is topic / p
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1096-brace-expansion-ii](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/1096-brace-expansion-ii) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Sliding Window
 |  |
 | ------- |
