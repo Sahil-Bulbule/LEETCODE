@@ -12,6 +12,7 @@ A collection of LeetCode questions which i will solved.... and this is topic / p
 | [0066-plus-one](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0119-pascals-triangle-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0724-find-pivot-index](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -96,4 +97,5 @@ A collection of LeetCode questions which i will solved.... and this is topic / p
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0119-pascals-triangle-ii) |
 <!---LeetCode Topics End-->
