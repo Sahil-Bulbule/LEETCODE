@@ -16,6 +16,7 @@ A collection of LeetCode questions which i will solved.... and this is topic / p
 | [0119-pascals-triangle-ii](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0119-pascals-triangle-ii) |
 | [0169-majority-element](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions which i will solved.... and this is topic / p
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1096-brace-expansion-ii](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/1096-brace-expansion-ii) |
@@ -55,6 +57,7 @@ A collection of LeetCode questions which i will solved.... and this is topic / p
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Prefix Sum
 |  |
