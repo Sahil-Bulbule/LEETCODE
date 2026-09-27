@@ -59,6 +59,7 @@ A collection of LeetCode questions which i will solved.... and this is topic / p
 | [0013-roman-to-integer](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0242-valid-anagram) |
 | [1096-brace-expansion-ii](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Sliding Window
 |  |
@@ -121,6 +122,7 @@ A collection of LeetCode questions which i will solved.... and this is topic / p
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -150,4 +152,8 @@ A collection of LeetCode questions which i will solved.... and this is topic / p
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0011-container-with-most-water) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
