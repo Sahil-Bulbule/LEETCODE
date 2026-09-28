@@ -59,6 +59,7 @@ A collection of LeetCode questions which i will solved.... and this is topic / p
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0010-regular-expression-matching](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0242-valid-anagram) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions which i will solved.... and this is topic / p
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0010-regular-expression-matching) |
 | [0118-pascals-triangle](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0119-pascals-triangle-ii) |
 ## Bit Manipulation
@@ -168,4 +170,8 @@ A collection of LeetCode questions which i will solved.... and this is topic / p
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
