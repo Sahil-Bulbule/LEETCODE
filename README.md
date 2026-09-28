@@ -1,8 +1,8 @@
 # LEETCODE
 A collection of LeetCode questions which i will solved.... and this is topic / pattern wise !
 
-<!---LeetCode Topics Start--> 
-# LeetCode Topics 
+<!---LeetCode Topics Start-->
+# LeetCode Topics
 ## Array
 |  |
 | ------- |
@@ -99,6 +99,7 @@ A collection of LeetCode questions which i will solved.... and this is topic / p
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0066-plus-one) |
@@ -173,5 +174,10 @@ A collection of LeetCode questions which i will solved.... and this is topic / p
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0010-regular-expression-matching) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
