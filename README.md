@@ -104,6 +104,7 @@ A collection of LeetCode questions which i will solved.... and this is topic / p
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0066-plus-one) |
