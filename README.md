@@ -28,6 +28,7 @@ A collection of LeetCode questions which i will solved.... and this is topic / p
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
@@ -152,6 +153,7 @@ A collection of LeetCode questions which i will solved.... and this is topic / p
 | [0010-regular-expression-matching](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0010-regular-expression-matching) |
 | [0118-pascals-triangle](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0119-pascals-triangle-ii) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -178,6 +180,7 @@ A collection of LeetCode questions which i will solved.... and this is topic / p
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Recursion
 |  |
 | ------- |
@@ -191,4 +194,8 @@ A collection of LeetCode questions which i will solved.... and this is topic / p
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0005-longest-palindromic-substring) |
+## Matrix
+|  |
+| ------- |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
