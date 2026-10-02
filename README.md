@@ -69,6 +69,7 @@ A collection of LeetCode questions which i will solved.... and this is topic / p
 | [0012-integer-to-roman](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0242-valid-anagram](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0242-valid-anagram) |
 | [1096-brace-expansion-ii](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions which i will solved.... and this is topic / p
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0022-generate-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/1096-brace-expansion-ii) |
 ## Stack
 |  |
@@ -157,6 +159,7 @@ A collection of LeetCode questions which i will solved.... and this is topic / p
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0118-pascals-triangle](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0119-pascals-triangle-ii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -185,6 +188,7 @@ A collection of LeetCode questions which i will solved.... and this is topic / p
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
