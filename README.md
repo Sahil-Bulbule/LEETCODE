@@ -74,6 +74,7 @@ A collection of LeetCode questions which i will solved.... and this is topic / p
 | [0022-generate-parentheses](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0242-valid-anagram) |
+| [0678-valid-parenthesis-string](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [1096-brace-expansion-ii](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions which i will solved.... and this is topic / p
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [1096-brace-expansion-ii](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions which i will solved.... and this is topic / p
 | [0032-longest-valid-parentheses](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0118-pascals-triangle](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0119-pascals-triangle-ii) |
+| [0678-valid-parenthesis-string](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Bit Manipulation
 |  |
@@ -189,12 +192,14 @@ A collection of LeetCode questions which i will solved.... and this is topic / p
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0011-container-with-most-water) |
+| [0678-valid-parenthesis-string](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
