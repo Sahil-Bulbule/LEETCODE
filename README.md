@@ -27,6 +27,7 @@ A collection of LeetCode questions which i will solved.... and this is topic / p
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0724-find-pivot-index](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions which i will solved.... and this is topic / p
 | [0066-plus-one](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0268-missing-number) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Database
 |  |
@@ -190,6 +192,7 @@ A collection of LeetCode questions which i will solved.... and this is topic / p
 | [0118-pascals-triangle](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0119-pascals-triangle-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0678-valid-parenthesis-string) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Bit Manipulation
 |  |
@@ -201,6 +204,7 @@ A collection of LeetCode questions which i will solved.... and this is topic / p
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0169-majority-element) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Counting
 |  |
 | ------- |
@@ -262,4 +266,32 @@ A collection of LeetCode questions which i will solved.... and this is topic / p
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
+## Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Union-Find
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Memoization
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Combinatorics
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
