@@ -36,6 +36,7 @@ A collection of LeetCode questions which i will solved.... and this is topic / p
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3886-sum-of-sortable-integers](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/3886-sum-of-sortable-integers) |
 ## Hash Table
 |  |
 | ------- |
@@ -116,6 +117,7 @@ A collection of LeetCode questions which i will solved.... and this is topic / p
 | [1096-brace-expansion-ii](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/1096-brace-expansion-ii) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3886-sum-of-sortable-integers](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/3886-sum-of-sortable-integers) |
 ## Binary Search
 |  |
 | ------- |
@@ -137,6 +139,7 @@ A collection of LeetCode questions which i will solved.... and this is topic / p
 | [0268-missing-number](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0268-missing-number) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3886-sum-of-sortable-integers](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/3886-sum-of-sortable-integers) |
 ## Database
 |  |
 | ------- |
@@ -266,6 +269,7 @@ A collection of LeetCode questions which i will solved.... and this is topic / p
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3886-sum-of-sortable-integers](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/3886-sum-of-sortable-integers) |
 ## Tree
 |  |
 | ------- |
