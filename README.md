@@ -40,6 +40,7 @@ A collection of LeetCode questions which i will solved.... and this is topic / p
 | [2778-sum-of-squares-of-special-elements](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions which i will solved.... and this is topic / p
 | [0219-contains-duplicate-ii](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2747-count-zero-request-servers](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/2747-count-zero-request-servers) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Prefix Sum
@@ -124,6 +126,7 @@ A collection of LeetCode questions which i will solved.... and this is topic / p
 | ------- |
 | [0724-find-pivot-index](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0724-find-pivot-index) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/3364-minimum-positive-sum-subarray) |
 ## Sorting
 |  |
 | ------- |
