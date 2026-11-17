@@ -85,6 +85,7 @@ A collection of LeetCode questions which i will solved.... and this is topic / p
 | [0283-move-zeroes](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## String
 |  |
 | ------- |
@@ -112,6 +113,7 @@ A collection of LeetCode questions which i will solved.... and this is topic / p
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Sliding Window
 |  |
@@ -238,6 +240,7 @@ A collection of LeetCode questions which i will solved.... and this is topic / p
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3693-climbing-stairs-ii](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/3693-climbing-stairs-ii) |
 ## Bit Manipulation
