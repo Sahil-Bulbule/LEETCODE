@@ -41,6 +41,7 @@ A collection of LeetCode questions which i will solved.... and this is topic / p
 | [2747-count-zero-request-servers](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions which i will solved.... and this is topic / p
 | [2333-minimum-sum-of-squared-difference](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/2747-count-zero-request-servers) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3886-sum-of-sortable-integers](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/3886-sum-of-sortable-integers) |
 ## Binary Search
@@ -244,6 +246,7 @@ A collection of LeetCode questions which i will solved.... and this is topic / p
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3693-climbing-stairs-ii](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/3693-climbing-stairs-ii) |
 ## Bit Manipulation
