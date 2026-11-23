@@ -29,6 +29,7 @@ A collection of LeetCode questions which i will solved.... and this is topic / p
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1254-number-of-closed-islands](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/1267-count-servers-that-communicate) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions which i will solved.... and this is topic / p
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0724-find-pivot-index) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/3364-minimum-positive-sum-subarray) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions which i will solved.... and this is topic / p
 | [0066-plus-one](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/0268-missing-number) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -394,4 +397,12 @@ A collection of LeetCode questions which i will solved.... and this is topic / p
 |  |
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/2243-calculate-digit-sum-of-a-string) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
