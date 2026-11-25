@@ -56,6 +56,7 @@ A collection of LeetCode questions which i will solved.... and this is topic / p
 | [3693-climbing-stairs-ii](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/3693-climbing-stairs-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3886-sum-of-sortable-integers](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/3886-sum-of-sortable-integers) |
+| [3934-smallest-unique-subarray](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Hash Table
 |  |
@@ -78,6 +79,7 @@ A collection of LeetCode questions which i will solved.... and this is topic / p
 | [3331-find-subtree-sizes-after-changes](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3934-smallest-unique-subarray](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/3934-smallest-unique-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -171,6 +173,7 @@ A collection of LeetCode questions which i will solved.... and this is topic / p
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3934-smallest-unique-subarray](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/3934-smallest-unique-subarray) |
 ## Math
 |  |
 | ------- |
@@ -413,4 +416,16 @@ A collection of LeetCode questions which i will solved.... and this is topic / p
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/3411-maximum-subarray-with-equal-products) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
