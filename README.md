@@ -58,6 +58,7 @@ A collection of LeetCode questions which i will solved.... and this is topic / p
 | [3886-sum-of-sortable-integers](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/3886-sum-of-sortable-integers) |
 | [3934-smallest-unique-subarray](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/3942-minimum-operations-to-sort-a-permutation) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -263,6 +264,7 @@ A collection of LeetCode questions which i will solved.... and this is topic / p
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3693-climbing-stairs-ii](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/3693-climbing-stairs-ii) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -295,6 +297,7 @@ A collection of LeetCode questions which i will solved.... and this is topic / p
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/3789-minimum-cost-to-acquire-required-items) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Sahil-Bulbule/LEETCODE/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Bracket Sequences
 |  |
 | ------- |
